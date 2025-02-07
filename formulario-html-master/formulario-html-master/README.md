@@ -8,10 +8,6 @@
   Formulário HTML e CSS + Netlify Forms
 </h1>
 
-<p align="center">
-  <img src=".github/preview.png" width="100%" />
-</p>
-
 ## 💻 Projeto
 
 Este projeto é um tutorial que ensina a como criar um formulário utilizando _HTML_ e _CSS_. O formulário criado será integrado com a funcionalidade [Netlify Forms](https://www.netlify.com/products/forms/), que permitirá o armazenamento das informações enviadas através dele. 
@@ -39,6 +35,4 @@ Este projeto é um tutorial que ensina a como criar um formulário utilizando _H
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://youtu.be/SpNPeaaUkGA" target="_blank">
- <img src="https://img.youtube.com/vi/SpNPeaaUkGA/maxresdefault.jpg" width="100%" height="auto" />
-</a>
+<a href="https://youtu.be/SpNPeaaUkGA" target="_blank"></a>
