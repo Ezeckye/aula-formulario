@@ -1,10 +1,14 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/83475e8d-91ed-43fe-a622-f14f15445328)<h1 align="center">
   Formulário HTML e CSS + Netlify Forms
 </h1>
 
 <p align="center">
   <img src=".github/preview.png" width="100%" />
 </p>
+
+<h1 align="center">
+  Resultado: https://clinquant-souffle-57e64d.netlify.app/
+</h1>
 
 ## 💻 Projeto
 
