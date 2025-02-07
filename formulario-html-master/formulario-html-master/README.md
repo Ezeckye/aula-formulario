@@ -1,14 +1,13 @@
 ![image](https://github.com/user-attachments/assets/83475e8d-91ed-43fe-a622-f14f15445328)<h1 align="center">
   Formulário HTML e CSS + Netlify Forms
 </h1>
+<h1 align="center">
+  Resultado: https://clinquant-souffle-57e64d.netlify.app/
+</h1> 
 
 <p align="center">
   <img src=".github/preview.png" width="100%" />
 </p>
-
-<h1 align="center">
-  Resultado: https://clinquant-souffle-57e64d.netlify.app/
-</h1>
 
 ## 💻 Projeto
 
@@ -32,8 +31,8 @@ Este projeto é um tutorial que ensina a como criar um formulário utilizando _H
 
 ## 📝 Tema de casa
 
-- [ ] Criar responsividade
-- [ ] Incluir novos campos no formulário
+- [x] Criar responsividade
+- [x] Incluir novos campos no formulário
 
 ## 📺 Tutorial no Youtube
 
