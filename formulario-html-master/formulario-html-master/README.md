@@ -35,4 +35,4 @@ Este projeto é um tutorial que ensina a como criar um formulário utilizando _H
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://youtu.be/SpNPeaaUkGA" target="_blank"></a>
+<p>https://youtu.be/SpNPeaaUkGA</p>
